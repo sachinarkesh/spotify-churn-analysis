@@ -50,27 +50,6 @@ The analysis applies the following techniques:
 
 ---
 
-## Repository Structure
-
-```text
-spotify-churn-analysis/
-│
-├── README.md
-├── RQ1.ipynb
-├── RQ2.ipynb
-├── RQ3.ipynb
-├── RQ4.ipynb
-├── RQ5.ipynb
-├── RQ6.ipynb
-├── RQ7.ipynb
-│
-└── outputs/
-    ├── figures/
-    └── tables/
-```
-
----
-
 ## Outputs
 
 The notebooks generate:
